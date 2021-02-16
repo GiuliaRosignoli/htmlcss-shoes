@@ -7,6 +7,15 @@
     font-family: 'Rubik Mono One', sans-serif;
 }
 
+/* NAVIGATION */
+ 
+.navigation-bar {
+ position: fixed;
+ top: 10px;
+ right: 10px;
+}
+
+
 
 /* SECTIONS */
 
