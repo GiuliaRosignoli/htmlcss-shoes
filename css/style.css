@@ -4,9 +4,21 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Rubik Mono One', sans-serif;
 }
 
+
 /* SECTIONS */
+
+.title {
+  font-size: 40px;
+  color: yellow;
+}
+
+
+#alternative-text-colour {
+    color: green;
+}
 
 .shoe.full-section {
     position: relative;
@@ -19,4 +31,16 @@
     left: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
+}
+
+.blue.shoe {
+    background-color: red;
+}
+
+.white.shoe {
+    background-color: green;
+}
+
+.green.shoe {
+    background-color: yellow;
 }
