@@ -7,7 +7,9 @@
     font-family: 'Rubik Mono One', sans-serif;
 }
 
+
 /* NAVIGATION */
+
  
 .navigation-bar  {
     position: fixed;
@@ -37,6 +39,9 @@
     border-radius: 50%;
 }
 
+.navigation-bar ul li a:hover {
+    transform: scale(1.5);
+}
 
 /* SECTIONS */
 
@@ -73,4 +78,8 @@
 
 .green.shoe {
     background-image: radial-gradient(red 0%, yellow 100%, green 0%);
+}
+
+.full-section .content img:hover {
+    transform: scale(1.4);
 }
