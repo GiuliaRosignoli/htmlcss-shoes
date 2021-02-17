@@ -42,7 +42,7 @@
 .navigation-bar ul li a:hover {
     transform: scale(1.6);
     background-color: #a1ebeb;
-    text-shadow: 1px 1px #1d1a1a;;
+    text-shadow: 1px 1px #1d1a1a;
     color: #00a300 ;
 }
 
@@ -51,6 +51,7 @@
 .title {
   font-size: 40px;
   color: yellow;
+  text-shadow: 2px 2px #1d1a1a;
 }
 
 
